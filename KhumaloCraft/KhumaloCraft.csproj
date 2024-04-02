@@ -1,0 +1,15 @@
+﻿<Project Sdk="Microsoft.NET.Sdk.Web">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <Nullable>enable</Nullable>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <None Include="wwwroot\css\styles.css" />
+    <None Include="wwwroot\lib\Images\CrochetFrogs.jpg" />
+    <None Include="wwwroot\lib\Images\WoodenWristRests.jpg" />
+  </ItemGroup>
+
+</Project>
